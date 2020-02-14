@@ -8,6 +8,8 @@ int main(){
     scanf("%d", &idade);
 
     printf("Sua idade menos 1: %d\n", (idade - 1));
+    
+    printf("Sua idade original era: %d\n"), (idade + 1));
 
     return 0;
 }
